@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with enhancing my skills in networking and collaboration within the design and development community
 - 💬 Ask me about π 
 - 📫 How to reach me: Santosh99884@gmail.com | Np03A170230@gmail.com | +977 9840528731
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Fish 
+- ⚡ Fun fact: Null
