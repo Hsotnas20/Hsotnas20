@@ -1,4 +1,4 @@
-🌟Hello, 👋🏻 My Name Santosh Giri!
+##🌟Hello, 👋🏻 My Name Santosh Giri
 
 - 🎨 Graphic Design: Adobe Creative Suite, Figma
 - 💻 Front-End Development: HTML, CSS, JavaScript, React
