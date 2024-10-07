@@ -1,5 +1,11 @@
-Hello, My Name Santosh Giri!
-🌟 Graphics Designer | Front-End Developer | UI/UX Designer | Cisco CCNA
+🌟Hello, 👋🏻 My Name Santosh Giri!
+
+- 🎨 Graphic Design: Adobe Creative Suite, Figma
+- 💻 Front-End Development: HTML, CSS, JavaScript, React
+- 📱 UI/UX Design: User Research, Wireframing, Prototyping
+- 🖥️ Networking: Cisco CCNA
+- 🌐 Protocols: TCP/IP, OSPF, EIGRP
+- 🔒 Security: VLANs, ACLs
 
 Welcome to my GitHub profile! I’m a passionate designer and developer with a keen eye for aesthetics and a strong understanding of user experience. My journey in the world of design has equipped me with a diverse skill set that blends creativity with technical proficiency.
 What I Do
