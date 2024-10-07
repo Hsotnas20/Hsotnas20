@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on E-commerce web development 
 - 🌱 I’m currently learning Cisco CCNA 
-- 👯 I’m looking to collaborate on exciting projects that leverage my skills in  networking building meaningful relationships that can lead to innovative ideas and opportunities. 
+- 👯 I’m looking to collaborate on exciting projects that leverage my skills in  Networking, Building meaningful relationships that can lead to innovative ideas and opportunities. 
 - 🤔 I’m looking for help with enhancing my skills in networking and collaboration within the design and development community
 - 💬 Ask me about π 
 - 📫 How to reach me: Santosh99884@gmail.com | Np03A170230@gmail.com | +977 9840528731
